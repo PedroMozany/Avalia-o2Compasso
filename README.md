@@ -12,14 +12,14 @@ EXPRESSAO VARCHAR(45)
 )
 <h2>Script tabela Produto<h2/>
   
-<br>CREATE TABLE PRODUTO(<br/>
-<br>id SMALLINT PRIMARY KEY AUTO_INCREMENT NOT NULL,<br/>
-<br>nome VARCHAR(200) NOT NULL,<br/>
-<br>desrição VARCHAR(200) NOT NULL,<br/>
-<br>desconto FLOAT NOT NULL,<br/>
-<br>preço FLOAT NOT NULL,<br/>
-<br>data_inicio VARCHAR(15) NOT NULL<br/>
-<br>)<br/>
+######<br>CREATE TABLE PRODUTO(<br/>
+######<br>id SMALLINT PRIMARY KEY AUTO_INCREMENT NOT NULL,<br/>
+######<br>nome VARCHAR(200) NOT NULL,<br/>
+######<br>desrição VARCHAR(200) NOT NULL,<br/>
+######<br>desconto FLOAT NOT NULL,<br/>
+######<br>preço FLOAT NOT NULL,<br/>
+######<br>data_inicio VARCHAR(15) NOT NULL<br/>
+######<br>)<br/>
   
 <h1>Gerenciamento de dependências<h1/>
 <l>MAVEN<l/>
